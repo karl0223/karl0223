@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=karl0223&icon=2&color=12)](https://visitcount.itsvg.in)
 
 Here are some ideas to get you started:
 
@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Karlducta022@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *I Love Coffee*
+
+## About Me
+"Hi there! I'm Karl Ducta, and I'm a student at Cavite State University. I'm passionate about Software Development and love learning new things related to it. In my free time, I enjoy reading manga, manhwa, manhua, and I'm particularly fond of playing computer games. I'm excited to connect with others who share similar interests and learn from their experiences."
 
 
 
@@ -27,6 +30,5 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=karl0223&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karl0223&icon=7&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

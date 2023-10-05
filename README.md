@@ -6,12 +6,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **FastAPI, SocketIO and React**
 - 👯 I’m looking to collaborate on **Backend Dev Projects**
 - 💬 Ask me about **Programming**
-- 📫 How to reach me: **Karlducta022@gmail.com**
+- 📫 How to reach me: **Karlducta.dev@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *I Love Coffee*
 
 ## About Me
-"Hi there! I'm Karl Ducta, and I'm a student at Cavite State University. I'm passionate about Software Development and love learning new things related to it. In my free time, I enjoy reading manga, manhwa, manhua, and I'm particularly fond of playing computer games. I'm excited to connect with others who share similar interests and learn from their experiences."
+"Hi there! I'm Karl Ducta, and I graduated from Cavite State University with a Bachelor's Degree in Computer Science. I'm passionate about Software Development and love learning new things related to it. In my free time, I enjoy reading manga, manhwa, manhua, and I'm particularly fond of playing computer games. I'm excited to connect with others who share similar interests and learn from their experiences."
 
 
 

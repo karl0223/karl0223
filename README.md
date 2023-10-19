@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Python and Node.js Projects**
-- 🌱 I’m currently learning **AWS and Docker**
+- 🌱 I’m currently learning **AWS, React and Docker**
 - 👯 I’m looking to collaborate on **Backend Dev Projects**
 - 💬 Ask me about **Programming**
 - 📫 How to reach me: **Karlducta.dev@gmail.com**
